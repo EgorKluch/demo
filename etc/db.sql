@@ -1,5 +1,5 @@
-CREATE database IF NOT EXISTS derbent;
-use derbent;
+CREATE database IF NOT EXISTS egorkluch_demo;
+use egorkluch_demo;
 
 CREATE TABLE IF NOT EXISTS users(
     id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
