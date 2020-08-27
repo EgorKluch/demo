@@ -1,0 +1,5 @@
+.idea/
+build/
+node_modules/
+config/env/.server.env
+yarn-error.log

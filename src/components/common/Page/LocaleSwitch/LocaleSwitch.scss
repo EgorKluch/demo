@@ -1,0 +1,17 @@
+.LocaleSwitch {
+  display: flex;
+  justify-content: flex-end;
+  padding: 8px 16px;
+
+  &__locale {
+    margin-right: 4px;
+    padding: 4px;
+    color: #0094FF;
+    cursor: pointer;
+
+    &_selected {
+      color: black;
+      cursor: default;
+    }
+  }
+}

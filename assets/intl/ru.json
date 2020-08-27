@@ -1,0 +1,12 @@
+{
+  "common.DoLogin": "Авторизоваться",
+  "common.Login": "Логин",
+  "common.Logout": "Выйти",
+  "common.Password": "Пароль",
+  "error.incorrectPassword": "Неверный пароль",
+  "error.internalError": "Произошла непредвиденная ошибка",
+  "error.max_length": "Значение должно быть меньше или равно {max, number} {max, plural, one {символа} other {символов}}",
+  "error.min_length": "Значение должно быть больше или равно {min} {min, plural, one {символа} other {символов}}",
+  "error.required": "Обязательное поле",
+  "error.userNotFound": "Пользователь не найден"
+}

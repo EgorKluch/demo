@@ -1,0 +1,12 @@
+{
+  "common.DoLogin": "Login",
+  "common.Login": "Login",
+  "common.Logout": "Logout",
+  "common.Password": "Password",
+  "error.incorrectPassword": "Incorrect password",
+  "error.internalError": "Something wrong",
+  "error.max_length": "Should be less or equal than {max}",
+  "error.min_length": "Should be greater or equal than {min}",
+  "error.required": "Required",
+  "error.userNotFound": "User not found"
+}

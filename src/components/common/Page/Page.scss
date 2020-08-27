@@ -1,0 +1,13 @@
+.Page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+  &__header {
+    border-bottom: 1px solid rgba(10, 21, 31, 0.1);
+  }
+
+  &__content {
+    flex: 1;
+  }
+}
